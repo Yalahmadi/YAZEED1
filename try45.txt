@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-hi yazeed 
-hii
-=======
-hi yazeed 
->>>>>>> coding
